@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1718380531 source:c:\users\lauta\downloads\proyectodados\proyectodados\menu.cpp
+	<iostream>
+	"menu.h"
+	"player.h"
+	"puntuaciones.h"
+
+1718380788 c:\users\lauta\downloads\proyectodados\proyectodados\menu.h
+
+1718381330 source:c:\users\lauta\downloads\proyectodados\proyectodados\main.cpp
+	<iostream>
+	<string>
+	"menu.h"
+
+1718305349 source:c:\users\lauta\downloads\proyectodados\proyectodados\combinaciones.cpp
+	<iostream>
+	<ctime>
+	"combinaciones.h"
+
+1718304619 c:\users\lauta\downloads\proyectodados\proyectodados\combinaciones.h
+
+1718306838 source:c:\users\lauta\downloads\proyectodados\proyectodados\puntaje.cpp
+	<iostream>
+	"puntaje.h"
+
+1718306983 c:\users\lauta\downloads\proyectodados\proyectodados\puntaje.h
+
+1718380808 c:\users\lauta\downloads\proyectodados\proyectodados\player.h
+
+1718380816 source:c:\users\lauta\downloads\proyectodados\proyectodados\player.cpp
+	<iostream>
+	<ctime>
+	"puntaje.h"
+	"combinaciones.h"
+
+1718380739 c:\users\lauta\downloads\proyectodados\proyectodados\puntuaciones.h
+
+1718380849 source:c:\users\lauta\downloads\proyectodados\proyectodados\puntuaciones.cpp
+	<iostream>
+	"puntuaciones.h"
+
+1718386480 source:c:\users\lauta\downloads\proyectodados\proyectodados\playerduo.cpp
+	<iostream>
+	<ctime>
+	"puntaje.h"
+	"combinaciones.h"
+
+1718998018 source:c:\users\lauta\downloads\tp\proyectodados\proyectodados\combinaciones.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	"menu.h"
+
+1718466129 c:\users\lauta\downloads\tp\proyectodados\proyectodados\combinaciones.h
+
+1718995603 source:c:\users\lauta\downloads\tp\proyectodados\proyectodados\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	"menu.h"
+
+1719260256 c:\users\lauta\downloads\tp\proyectodados\proyectodados\menu.h
+
+1719260343 source:c:\users\lauta\downloads\tp\proyectodados\proyectodados\player.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	"menu.h"
+
+1718466153 c:\users\lauta\downloads\tp\proyectodados\proyectodados\puntaje.h
+
+1719260383 source:c:\users\lauta\downloads\tp\proyectodados\proyectodados\playerduo.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	"menu.h"
+
+1718998522 source:c:\users\lauta\downloads\tp\proyectodados\proyectodados\puntaje.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	"menu.h"
+
+1718639365 source:c:\users\lauta\downloads\tp\proyectodados\proyectodados\puntuaciones.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	"menu.h"
+
+1718466161 c:\users\lauta\downloads\tp\proyectodados\proyectodados\puntuaciones.h
+
+1719002214 source:c:\users\lauta\downloads\tp\proyectodados\proyectodados\menu.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	"menu.h"
+
